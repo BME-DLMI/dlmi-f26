@@ -1,5 +1,3 @@
 # BME-DLMI
 
-## Assignment repository
-
-## Copy assignments from this repository to your personal repository dlmi-f26-${hawkid}
+Assignment repository for DLMI Fall 2026 semester. Copy assignments from this repository to your personal repository dlmi-f26-${hawkid}
